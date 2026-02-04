@@ -1,0 +1,5 @@
+This is a sample file.
+It contains some simple text for testing.
+Vector embeddings are used to convert text into numerical vectors.
+Each line represents a separate piece of text.
+This can help in various NLP tasks such as document retrieval, classification, and clustering.

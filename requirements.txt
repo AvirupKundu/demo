@@ -1,0 +1,22 @@
+# llm
+langchain-openai
+python-dotenv
+langchain-chroma
+langchain-community
+certifi
+httpx
+python-docx
+PyPDF2
+pdfminer.six
+Pillow
+streamlit
+
+# vector
+langchain
+langchain-openai
+langchain-community
+chromadb
+python-dotenv
+httpx
+tiktoken
+unstructured[pdf,docx]
